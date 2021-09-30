@@ -122,3 +122,16 @@ div {
     border-bottom: solid;
 
 }
+
+#styles-h2{
+    border:none;
+    border-bottom: solid;
+    font-family: "poppins", Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-weight: 100;
+}
+
+#styles-h2 h2{
+    text-align: center;
+    
+}
