@@ -160,3 +160,10 @@ img {
     top: 0px;   
     z-index: 0;
     }
+
+    /*----------footer formatting------*/
+    
+    #footer-paragraph {
+        font-family: "poppins", Arial, Helvetica, sans-serif;
+        text-align: right;
+    }
